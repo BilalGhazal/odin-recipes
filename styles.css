@@ -16,6 +16,12 @@
     text-align: center;
 }
 
+.steak-body {
+    
+    background-color: rgba(231, 76, 76, 0.977);
+    text-align: center;
+}
+
 .main-headers {
     font-size: 90px;
 }
