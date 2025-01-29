@@ -1,14 +1,41 @@
-.main-body {
+.index-body {
     background-color: grey;
     text-align: center;
     
 }
 
-.main-header {
-    font-size: 60px;
+.main-headers {
+    font-size: 90px;
 }
 
 .main-list-items {
-    font-size: 30px;
+    font-size: 50px;
+}
+
+.burger-body {
+
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.subheaders {
+
+    font-size: 40px;
+}
+
+ol, ul {
     list-style-type: none;
+}
+
+.list-items {
+
+    font-size: 20px;
+}
+
+button {
+    font-size: 15px;
 }
