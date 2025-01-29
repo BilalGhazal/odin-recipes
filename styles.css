@@ -4,18 +4,24 @@
     
 }
 
+.burger-body {
+
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+.lasagna-body {
+
+    background-color: lightyellow;
+    text-align: center;
+}
+
 .main-headers {
     font-size: 90px;
 }
 
 .main-list-items {
     font-size: 50px;
-}
-
-.burger-body {
-
-    background-color: lightsalmon;
-    text-align: center;
 }
 
 a {
