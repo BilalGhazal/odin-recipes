@@ -1,0 +1,14 @@
+.main-body {
+    background-color: grey;
+    text-align: center;
+    
+}
+
+.main-header {
+    font-size: 60px;
+}
+
+.main-list-items {
+    font-size: 30px;
+    list-style-type: none;
+}
