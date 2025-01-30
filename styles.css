@@ -5,6 +5,7 @@
 .index-body {
     background-color: grey;
     text-align: center;
+    padding: 50px;
     
 }
 
@@ -28,6 +29,8 @@
 
 .main-headers {
     font-size: 90px;
+    margin-bottom: 150px;
+
     
 }
 
@@ -55,4 +58,8 @@ ol, ul {
 
 button {
     font-size: 15px;
+}
+
+li {
+    padding: 30px;
 }
